@@ -2,5 +2,5 @@
 
 ## My Information
 
-Name: ALlen Huang
+Name: Allen Huang
 Email: allenyhu@usc.edu
